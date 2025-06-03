@@ -1,0 +1,4 @@
+node_modules
+src/service/connection.php
+src/assets/uploads/certificates/*
+src/assets/uploads/templates/*
